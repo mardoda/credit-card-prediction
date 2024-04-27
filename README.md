@@ -1,4 +1,4 @@
-# credit-card-prediction
+# Credit Card Prediction
 comparing different analytical models/methods to understand which one performs best in deciphering how a company approves or denies applicants requests for credit cards
 
 ## Abstract
